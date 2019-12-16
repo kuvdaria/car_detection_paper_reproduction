@@ -5,6 +5,6 @@ Datasets were taken from https://github.com/aniskoubaa/car_detection_yolo_faster
 
 ## To train Faster R-CNN follow the ipython notebook from the Faster R-CNN folder in Google Colab
 
-![alt text](https://github.com/kuvdaria/car_detection_paper_reproduction/edit/master/example_frcnn.jpg)
+![](https://github.com/kuvdaria/car_detection_paper_reproduction/edit/master/example_frcnn.jpg)
 
 
